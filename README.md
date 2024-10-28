@@ -22,8 +22,8 @@ This view provides a breakdown of reported offenses by fiscal year for the selec
 
 ### 2. LGA Overview - Crime Contribution Analysis
 <div style="display: flex; justify-content: space-around;">
-  <img src="Images/LGA 1.PNG" alt="LGA 1 Overview" width="45%" style="margin-right: 10px;">
-  <img src="Images/LGA 2.PNG" alt="LGA 2 Overview" width="45%">
+  <img src="Images/LGA 1.PNG" alt="LGA 1 Overview" width="100%" style="margin-right: 10px;">
+  <img src="Images/LGA 2.PNG" alt="LGA 2 Overview" width="100%">
 </div>
 
 In this view, users can see crime contribution by category over multiple fiscal years. The bar chart helps visualize the percentage each crime type contributes, providing insights into trends and distribution across categories.
