@@ -14,14 +14,17 @@ This Power BI dashboard provides an analysis of publicly available data on repor
 
 ### 1. LGA Overview - Offenses and Rates
 <div style="display: flex; justify-content: space-around;">
-  <img src="./LGA%201.PNG" alt="LGA 1 Overview" width="45%" style="margin-right: 10px;">
-  <img src="./LGA%202.PNG" alt="LGA 2 Overview" width="45%">
+  <img src="Images/Overall 1.PNG" alt="Overall 1 Overview" width="45%" style="margin-right: 10px;">
+  <img src="Images/Overall 2.PNG" alt="Overall 2 Overview" width="45%">
 </div>
 
 This view provides a breakdown of reported offenses by fiscal year for the selected LGA. It includes a visualization of YoY changes and highlights categories with significant increases.
 
 ### 2. LGA Overview - Crime Contribution Analysis
-![LGA 2 Overview](./LGA%202.PNG)
+<div style="display: flex; justify-content: space-around;">
+  <img src="Images/LGA 1.PNG" alt="LGA 1 Overview" width="45%" style="margin-right: 10px;">
+  <img src="Images/LGA 2.PNG" alt="LGA 2 Overview" width="45%">
+</div>
 
 In this view, users can see crime contribution by category over multiple fiscal years. The bar chart helps visualize the percentage each crime type contributes, providing insights into trends and distribution across categories.
 
